@@ -1,0 +1,1 @@
+This repo contains a cloud-init script that can be used to configure all ephemeral disks into a single LVM logical volume mounted on /opt.
